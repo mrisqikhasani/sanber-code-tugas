@@ -21,7 +21,7 @@
         */
     $kids = ["Mike", "Dustin", "Will", "Lucas", "Max", "Eleven"]; // Lengkapi di sini
     $adults=["Hopper", "Nancy",  "Joyce", "Jonathan", "Murray"];
-
+    
     echo "Array Kids";
     echo "<pre>";
     print_r($kids);
@@ -31,7 +31,7 @@
     echo "<pre>";
     print_r($adults);
     echo "</pre>";
-    
+
 
     echo "<h3> Soal 2</h3>";
     /* 
